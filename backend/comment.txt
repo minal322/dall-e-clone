@@ -1,0 +1,7 @@
+cloudinary ---- to store our images
+cors
+dotenv
+express
+mongoose 
+nodemon
+openai 
